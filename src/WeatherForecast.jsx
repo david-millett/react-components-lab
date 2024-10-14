@@ -1,6 +1,6 @@
 import WeatherIcon from './WeatherIcon'
-import './WeatherForecast.css'
 import WeatherData from './WeatherData'
+import './WeatherForecast.css'
 
 const WeatherForecast = (props) => {
     const { weatherForecast } = props
